@@ -4,3 +4,5 @@
 
 ## Project Overview
 ## Thsi project analysis aims to generate insight into product performanceof the E Commerce. By analysing the various parameters in the data received, i seek to gather enough insight to make informed decision.
+# Tool used
+## Microsoft Excel
